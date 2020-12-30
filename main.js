@@ -49,7 +49,7 @@ function _main() {
 }
 
 function main() {
-    setInterval(tweetdeck_main, 300);
+    setInterval(_main, 300);
 }
 
 main();
